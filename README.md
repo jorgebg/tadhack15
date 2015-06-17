@@ -4,8 +4,8 @@
 
 ## Authors
 
-- @josmas
-- @jorgebg
+- [@josmas](https://github.com/josmas)
+- [@jorgebg](https://github.com/jorgebg)
 - [@codecontext](https://twitter.com/codecontext)
 
 ## Installation
