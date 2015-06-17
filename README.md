@@ -6,7 +6,7 @@
 
 - [@josmas](https://github.com/josmas)
 - [@jorgebg](https://github.com/jorgebg)
-- [@codecontext](https://twitter.com/codecontext)
+- [@amassanet](https://github.com/amassanet)
 
 ## Installation
 
